@@ -19,6 +19,12 @@ I use AI coding and research tools to support implementation, debugging and expl
 
 These are independent and educational projects at different stages. The linked notes describe their scope and availability; they are **documentation, not public application source or live demos**.
 
+### HelliQuiz
+A collaborative educational quiz application with a Next.js / TypeScript frontend and Strapi backend. The public development branch includes quiz participation, countdown logic, answer submission, result views and KaTeX math rendering.
+
+**Educational project · Public development source**  
+[Explore the code →](https://github.com/amiralibr/helliquiz/tree/feature/frontend-setup) · [Implementation notes →](https://github.com/Amirparham-code/Amirparham-code/blob/main/SELECTED-WORK.md#helliquiz)
+
 ### Estimatic
 A cryptocurrency analytics project connecting a Next.js / React interface with a Django REST backend. Its focus is market dashboards and experimental forecasting.
 
@@ -40,6 +46,8 @@ An experimental desktop browser built with React, TypeScript and Electron. The e
 [More project notes: HelliQuiz, RUBI & AmirVision →](https://github.com/Amirparham-code/Amirparham-code/blob/main/SELECTED-WORK.md#more-experiments)
 
 ## Public code to explore
+
+**[HelliQuiz](https://github.com/amiralibr/helliquiz/tree/feature/frontend-setup)** — the full-stack educational project above is hosted in a collaborator’s repository. Its main branch is a placeholder; follow the development-branch link to inspect the application. No live demo or successful build is claimed.
 
 **[Todo App](https://github.com/Amirparham-code/todo-app)** — a small React classroom project with Persian task entry, search, completion and color selection. Its README documents the current implementation and a known import issue. This is an educational sample, separate from Aroly.
 
