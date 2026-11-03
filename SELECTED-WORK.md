@@ -44,11 +44,13 @@ The technical challenge is coordinating visible browser content, tab/workspace s
 
 ### HelliQuiz
 
-**Educational project · Next.js / React / TypeScript / Strapi**
+**Collaborative educational project · Next.js / React / TypeScript / Strapi**
 
 An online quiz application covering quiz listing, participation, timers, answer submission, results and mathematical expression rendering with KaTeX. Its technical focus is coordinating timed quiz interactions with answer and result flows.
 
-No public source or verified demonstration is linked from this overview.
+**Public source:** [amiralibr/helliquiz — feature/frontend-setup](https://github.com/amiralibr/helliquiz/tree/feature/frontend-setup). The repository belongs to a collaborator; this is a shared educational project, not a claim of sole authorship. The main branch contains only a placeholder README, so use the development branch to inspect the application.
+
+The inspected branch includes a typed API client, a quiz runner with countdown and submission handling, result presentation, a KaTeX renderer, and Strapi quiz/question/submission modules. The frontend reads `NEXT_PUBLIC_STRAPI_API_URL`, defaulting to `http://localhost:1337`; it needs a configured backend and quiz data. No running deployment, build or end-to-end test is claimed.
 
 ### RUBI
 
